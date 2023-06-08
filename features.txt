@@ -1,0 +1,6 @@
+interfaz simple
+Visibilidad en IOS y Android
+Seguridad
+Funcionamiento offline
+Comentarios y medios de contacto
+Opciones de personalización
